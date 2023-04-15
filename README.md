@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://stellar.org"><img alt="Stellar" src="https://github.com/stellar/.github/raw/master/stellar-logo.png" width="558" /></a>
+<a href="https://stellar.org"><img alt="Stellar" src="https://raw.githubusercontent.com/FaceBlockTeam/faceBlockChain/master/faceblock500500.jpg" width="558" /></a>
 <br/>
 <strong>Creating equitable access to the global financial credit asset- ---- social captial protocol </strong>
 <h1>Stellar Core</h1>
