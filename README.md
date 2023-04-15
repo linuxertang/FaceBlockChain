@@ -2,11 +2,8 @@
 <a href="https://stellar.org"><img alt="Stellar" src="https://raw.githubusercontent.com/FaceBlockTeam/faceBlockChain/master/faceblock500500.jpg" width="558" /></a>
 <br/>
 <strong>Creating equitable access to the global financial credit asset- ---- social captial protocol </strong>
-<h1>Stellar Core</h1>
+<h1>FaceBlockChain Core</h1>
 </div>
-<p align="center">
-<a href="https://github.com/stellar/stellar-core/actions"><img alt="Build Status" src="https://github.com/stellar/stellar-core/workflows/.github/workflows/build.yml/badge.svg?branch=auto" /></a>
-</p>
 
 faceblockchain is a replicated state machine that maintains a local copy of a cryptographic ledger and processes transactions against it, in consensus with a set of peers.
 It implements the [Stellar Consensus Protocol](https://github.com/stellar/stellar-core/blob/master/src/scp/readme.md), a _federated_ consensus protocol.
